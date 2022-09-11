@@ -1,5 +1,7 @@
 # Hi there 👋
 
+ - 啊...有点社恐, 就不写简介了...
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morax-xyc&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
