@@ -2,10 +2,10 @@
 
  - 啊...有点社恐, 就不写简介了...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morax-xyc&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moraxyc&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**Morax-xyc/Morax-xyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Moraxyc/Moraxyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
