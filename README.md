@@ -16,7 +16,10 @@
 
 ## Github Status
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moraxyc&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Moraxyc&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## 访问量
+![Moe Counter](https://count.getloli.com/get/@Moraxyc?theme=rule34)
 
 <!--
 **Moraxyc/Moraxyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
