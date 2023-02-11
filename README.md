@@ -2,7 +2,7 @@
 
  - 很高兴你在茫茫的Github用户中找到了我...
 
-本人主要使用JavaScript/Python, 最近在尝试入坑后端语言如PHP、Java（虽然这个真的有点难
+本人主要使用JavaScript/Python, 最近在尝试入坑后端语言如PHP(~~最好的语言~~、Java
 
 ## 代码语言
 
