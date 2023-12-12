@@ -16,7 +16,7 @@
 
 ## Github Status
 
-[![Moraxyc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moraxyc&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Moraxyc's GitHub stats](https://github-readme-stats.morax.icu/api?username=Moraxyc&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 访问量
 ![Moe Counter](https://count.getloli.com/get/@Moraxyc?theme=rule34)
