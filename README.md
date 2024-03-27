@@ -1,30 +1,44 @@
-# Hi there 👋
+# Hello World 🎉
 
- - 很高兴你在茫茫的Github用户中找到了我...
+I am an 18 yo student from China, who is passionate about computer science technology and love the spirit of [Open-source](https://en.wikipedia.org/wiki/Open_source).
 
-本人主要使用Python/Go, 构建用的Nix
+<details>
+    <summary>Read more</summary>
+<br>
 
-## 代码语言
+Ever since I was introduced to computers in elementary school and started programming in junior high, I've held a deep interest in computer science and technology. I enjoy studying computers, investigating various "magical" projects to understand how they were created by people, and delving into the stories and principles behind computer technology. Trying to make contributions in this field.
 
-### 会
-![](https://img.shields.io/badge/-JavaScript-FFDA3E?style=flat-square&logo=JavaScript&logoColor=fff)
-![](https://img.shields.io/badge/-Python-333399?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Golang-359CD6.svg?style=flat-square&logo=Go&logoColor=fff)
+</details>
 
-### 还在学习
-![](https://img.shields.io/badge/-Java-CC9900?style=flat-square&logo=openjdk&logoColor=fff)
 
-## Github Status
+## Languages
+
+<br>
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files/nix.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files/java.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files/go.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files/c.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files/sqlite.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files/python.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files/html.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files/nodejs.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files/git.svg" height="22px"/>
+
+<br>
+
+## Status
+
+[![wakatime](https://wakatime.com/badge/user/018e8068-e9e8-45c7-86d8-4567b4d41012.svg?style=flat)](https://wakatime.com/@018e8068-e9e8-45c7-86d8-4567b4d41012)
 
 [![Moraxyc's GitHub stats](https://github-readme-stats.morax.icu/api?username=Moraxyc&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 访问量
 ![Moe Counter](https://count.getloli.com/get/@Moraxyc?theme=rule34)
 
-## 常用语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moraxyc&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## 请我喝咖啡🤤
+## Coffee Please🤤
 
 <a href="https://www.buymeacoffee.com/moraxyc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <!--
