@@ -11,7 +11,7 @@ Ever since I was introduced to computers in elementary school and started progra
 </details>
 
 
-## Languages
+## Tech
 
 <br>
 <p align="center">
