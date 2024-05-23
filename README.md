@@ -1,6 +1,6 @@
 # Hello World 🎉
 
-I am an 18 yo student from China, who is passionate about computer science technology and love the spirit of [Open-source](https://en.wikipedia.org/wiki/Open_source).
+I am a student from China, who is passionate about computer science technology and love the spirit of [Open-source](https://en.wikipedia.org/wiki/Open_source).
 
 <details>
     <summary>Read more</summary>
